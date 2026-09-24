@@ -13,3 +13,7 @@ We build browser extensions, utilities, and integrations that make AI tools easi
 ## Links
 
 - 🌐 [aigarage.in](https://aigarage.in)
+- 𝕏 [X / Twitter](https://x.com/aigarageindia)
+- 💼 [LinkedIn](https://www.linkedin.com/company/aigarageindia)
+- 🎥 [YouTube](https://www.youtube.com/@AIGarageIndia)
+- 📸 [Instagram](https://www.instagram.com/aigarage.in)
